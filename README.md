@@ -1,1 +1,1 @@
-# ServletTest
+# ServletTest is the simple servlet test program using command prompt.
